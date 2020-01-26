@@ -7,5 +7,8 @@ Just me messing around with Garmin FIT files downloaded from Zwift.
 3. Install this project in your environment: python setup.py install
 4. Start Jupyter Lab and go to the notebooks directory
 
-#### Example
-![Image of Smoothed Power](power_smoothed.png) 
+#### Examples
+##### Smoothed Power Output
+![Image of Smoothed Power](power_smoothed.png)
+##### Elevation Changes
+![Image of Elevation Changes](elevation.png)
